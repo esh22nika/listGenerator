@@ -14,7 +14,7 @@ body {
 }
 
 .upload-section {
-    background: linear-gradient(45deg, #ff6b6b, #ee5a24);
+    background: linear-gradient(45deg, #f9a65e, #ee5a24);
     color: white;
     padding: 40px;
     text-align: center;
@@ -39,7 +39,7 @@ body {
 }
 
 .category-header {
-    background: linear-gradient(45deg, #4CAF50, #45a049);
+    background: linear-gradient(45deg, #f9a65e, #ee5a24);
     color: white;
     padding: 15px 25px;
     border-radius: 10px;
@@ -119,7 +119,7 @@ body {
 }
 
 .add-to-cart {
-    background: linear-gradient(45deg, #FF6B6B, #FF8E53);
+    background: linear-gradient(45deg, #f9a65e, #ee5a24);
     color: white;
     border: none;
     border-radius: 25px;
